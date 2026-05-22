@@ -1,0 +1,18 @@
+export const colors = {
+  background: '#0A0A0F',
+  gray900: '#0A0A0F',
+  gray800: '#181818',
+  gray700: '#29292E',
+  gray600: '#323238',
+  gray500: '#4D4D57',
+  gray400: '#7C7C8A',
+  gray300: '#C4C4CC',
+  gray200: '#E1E1E6',
+  gray100: '#F4F4F5',
+  white: '#FFFFFF',
+  green500: '#00B37E',
+  green700: '#015F43',
+  red500: '#F75A68',
+  red700: '#AB222E',
+  overlay: 'rgba(0, 0, 0, 0.6)',
+};
